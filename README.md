@@ -13,13 +13,17 @@ The code was implemented using Python 3.8.3 and the following packages:
 - scipy==1.5.0
 
 ## Datasets
+CE-stSENet with maximum mean discrepancy-based information maximizing loss is evaluated on three public datasets:
+- [Bonn Dataset](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.64.061907)
+- [TUSZ Dataset](https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_seizure/)
+- [CHB-MIT dataset](http://archive.physionet.org/physiobank/database/chbmit/) 
 
 ## Main Results
 
 ![results](https://raw.githubusercontent.com/YuLiu-web/CE-stSENet/main/Figures/results.jpg)
 
 ## Citations
-If you use this work please cite:
+If you find the paper or this repo useful, please cite:
 ```
 @ARTICLE{8995501,
   author={Li, Yang and Liu, Yu and Cui, Wei-Gang and Guo, Yu-Zhu and Huang, Hui and Hu, Zhong-Yi},
