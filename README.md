@@ -1,5 +1,4 @@
 # CE-stSENet
-# CE-stSENet
 Original PyTorch implementation of "Epileptic Seizure Detection in EEG Signals Using a Unified Temporal-Spectral Squeeze-and-Excitation Network" (IEEE Transactions on Neural Systems and Rehabilitation Engineering 2020).
 
 **Paper: [https://ieeexplore.ieee.org/document/8995501](https://ieeexplore.ieee.org/document/8995501)**
